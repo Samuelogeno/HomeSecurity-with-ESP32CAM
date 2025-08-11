@@ -1,8 +1,8 @@
 //FOR BLYNK BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 //FOR BLYNK
-#define BLYNK_TEMPLATE_ID "TMPL2QgwTA_8E"
+#define BLYNK_TEMPLATE_ID "****"
 #define BLYNK_TEMPLATE_NAME "HomeSecurity"
-#define BLYNK_AUTH_TOKEN "8USMOmB981VtAshS6SoA3C4LSdQpLerw"
+#define BLYNK_AUTH_TOKEN "****"
 ///////////////////////////////////////////////////////////
 
 
